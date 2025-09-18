@@ -1,0 +1,15 @@
+/workspaces/C-Tutorial/StringApp/bin/Debug/net8.0/StringApp
+/workspaces/C-Tutorial/StringApp/bin/Debug/net8.0/StringApp.deps.json
+/workspaces/C-Tutorial/StringApp/bin/Debug/net8.0/StringApp.runtimeconfig.json
+/workspaces/C-Tutorial/StringApp/bin/Debug/net8.0/StringApp.dll
+/workspaces/C-Tutorial/StringApp/bin/Debug/net8.0/StringApp.pdb
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.AssemblyInfoInputs.cache
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.AssemblyInfo.cs
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.csproj.CoreCompileInputs.cache
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.sourcelink.json
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.dll
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/refint/StringApp.dll
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.pdb
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/StringApp.genruntimeconfig.cache
+/workspaces/C-Tutorial/StringApp/obj/Debug/net8.0/ref/StringApp.dll
